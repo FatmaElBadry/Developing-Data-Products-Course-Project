@@ -71,8 +71,9 @@ shinyUI(
                       
                       p("Henderson and Velleman (1981), Building multiple regression models interactively. Biometrics, 37, 391-411.")
              ),
-             tabPanel("Source Code",p("You can find the source code from this repositorty: ")
+             tabPanel("Source Code",p("You can find the source code & the presentation from this repositorty:
+                                      https://github.com/FatmaElBadry/Developing-Data-Products-Course-Project")
+                      
              )
-             
   )
 )

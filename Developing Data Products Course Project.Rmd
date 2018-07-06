@@ -42,10 +42,11 @@ Also,you can view the regression model for the selected variable in another tab
 
 ## App link
 
-You can find this App from the following :
+You can access this App from the following :
+https://fatmaelbadry.shinyapps.io/DevelopingDataProductsShinyApp/
 
 Also to view the source code:
-
+https://github.com/FatmaElBadry/Developing-Data-Products-Course-Project
 
 
 
