@@ -48,5 +48,8 @@ https://fatmaelbadry.shinyapps.io/DevelopingDataProductsShinyApp/
 Also to view the source code:
 https://github.com/FatmaElBadry/Developing-Data-Products-Course-Project
 
+The presenation :
+http://rpubs.com/FatmaElBadry/DevelopingDataProductsCourseProject
+
 
 
